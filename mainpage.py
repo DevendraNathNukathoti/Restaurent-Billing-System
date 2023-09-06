@@ -1,15 +1,3 @@
-# project by -----------
-# Pranesh Kulkarni
-# Rucha Patil
-# Aniket kesarkar
-# Ankit lad 
-# Tanmay Paratkar
-# Avishkar kandhare
-
-#-------------------------------------------------------
-# Topic : Restaurant Management System using MySQL databases and Tkinter GUI
-#---------------------------------------------------------
-
 from tkinter import *
 from tkinter import messagebox
 import time
